@@ -39,6 +39,7 @@ To start, write the following query:
     *
  FROM [your_table_name]
  LIMIT 10;
+ 
 Note: [your_table_name] will be the exact name of the csv file you uploaded in double quotes.
 
 
