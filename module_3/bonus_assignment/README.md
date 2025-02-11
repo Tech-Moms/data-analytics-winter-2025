@@ -8,7 +8,7 @@ Deepnote.com is a collaborative data science notebook platform designed for data
  
  Download:
  
-[ ] 1. electronic_items to solve the Question 1
+[ ] 1. [electronic_items](https://github.com/ABura22/data-analytics-winter-2025/blob/main/module_3/bonus_assignment/electronic_items.csv) to solve the Question 1
 
 [ ] 2. employee_data  and department_data to solve Question 2
 
