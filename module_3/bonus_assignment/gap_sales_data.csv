@@ -1,0 +1,13 @@
+sale_id,store_id,sale_date,category,total_sales
+1,101,2023-01-01,Clothing,6000
+2,101,2023-05-01,Outerwear,2000
+3,101,2023-05-02,Clothing,4000
+4,101,2023-05-02,Outerwear,1500
+5,101,2023-05-03,Clothing,3500
+6,101,2023-05-03,Outerwear,2500
+7,102,2023-05-01,Clothing,7000
+8,102,2023-06-01,Outerwear,3000
+9,102,2023-05-02,Clothing,5000
+10,102,2023-05-02,Outerwear,2500
+11,102,2023-05-03,Clothing,4000
+12,102,2023-04-03,Outerwear,2000
