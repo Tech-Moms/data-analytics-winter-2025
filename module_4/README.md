@@ -63,8 +63,8 @@ _Est. Time to Complete: 90 mins_
 In this video we'll complete a beginner project in Tableau, from start to finish. Starting with connecting to a new data set, we'll then create & customize visualizations, and build a full dashboard, combining all the skills we learned from previous video lessons.
 
 - [x] Watch [this](https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=5) video, follow along in Tableau, and mark when complete
-- [ x] Publish your completed workbook to Tableau Public
-- [ x]  Drop a link to your Tableau dashboard in this [discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/131) thread. 
+- [x] Publish your completed workbook to Tableau Public
+- [x]  Drop a link to your Tableau dashboard in this [discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/131) thread. 
 
 ---
 
@@ -82,10 +82,10 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 
 ### Create a Tech-Moms Annual Report Dashboard 
 
-- [x ] Create a Tableau dashboard using both the Tech-Moms applicant and survey data
-- [x ] See last year's annual report for inspiration 
-- [x ] Drop a link to your Tableau dashboard in this [discussions](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/149) thread.
-- [x ] Try to get this done by Saturday, Feb 22nd - otherwise you will have another week to complete. If done by 2/22, then a data mentor will get you feedback to iterate on it for the follow week. 
+- [x] Create a Tableau dashboard using both the Tech-Moms applicant and survey data
+- [x] See last year's annual report for inspiration 
+- [x] Drop a link to your Tableau dashboard in this [discussions](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/149) thread.
+- [x] Try to get this done by Saturday, Feb 22nd - otherwise you will have another week to complete. If done by 2/22, then a data mentor will get you feedback to iterate on it for the follow week. 
 
 ## Saturday, Feb 22nd - In Class Agenda: 
 
@@ -100,8 +100,8 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 
 ## Assignment - Complete by class Wednesday, February 26th
 
-- [x ] Research AI updates in Tableau
-- [ x] Create a slide deck of your finds & post in [this](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/165) discussion thread 
+- [x] Research AI updates in Tableau
+- [x] Create a slide deck of your finds & post in [this](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/165) discussion thread 
 
 ## Wednesday, Feb 26th - In Class Agenda: 
 
