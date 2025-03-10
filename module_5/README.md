@@ -23,9 +23,11 @@ _Estimated Time to Complete 1.5 hrs_
 
 1. 💃 Welcome and Networking 
 2. 💜 Weber State Micro-Credential Setup 
-3. ☕️ Break 
-4. 👩🏻‍🏫 Lecture - Storytelling with Data 
-5. 🔜 Wrap up & Look Ahead
+3. ☕️ Break
+4. ❓ [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeYKZ7he5PUoZ8IiPkY_2ksQOpH351JYgYVf5jbu00r25WpEQ/viewform) - Data Storytelling & Visualization Best Practices
+5. 🎉 [Mother's in the Workforce](https://www.youtube.com/watch?v=llddQPmYU40) 
+5. 👩🏻‍🏫 Lecture - [Storytelling with Data](https://docs.google.com/presentation/d/1y6xzTOgX4EGatDwtYXBJHTYCwN0v8Z3ZHgWgop1dER8/edit#slide=id.g305ad286e69_1_10)
+6. 🔜 Wrap up & Look Ahead
 
 ## Assignment - complete by Saturday, March 8th, 2025 
 

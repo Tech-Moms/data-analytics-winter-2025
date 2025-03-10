@@ -53,8 +53,8 @@ _Modules will be released each Saturday for the following week._
 | Week 8   | 2/23      |       **BI Tooling: Tableau 2**                     | Online (Wed) / In Person  @ Adobe in Lehi  | Complete Module 4 course materials on GitHub                               |
 | Week 9   | 3/2      |   **Data Storytelling**      | Online (Wed/Sat)            | Complete Module 5 course materials on GitHub   |
 | Week 10  | 3/9       |  **BI Tooling: Looker 1**              | Online (Wed/Sat)            | Complete Module 6 course materials on GitHub                                           |
-| Week 11  | 3/16      | **BI Tooling: Looker 2**        | Online (Wed/Sat)            | Complete Module 7 course materials on GitHub                                             |
-| Week 12  | 3/23      | **BI Tooling: DOMO** | Online (Wed) / In Person @ TBD    | Complete Module 8 course materials on GitHub              |
+| Week 11  | 3/16      | **BI Tooling: Looker 2**        | Online (Wed/Sat)            | Complete Module 6 course materials on GitHub                                             |
+| Week 12  | 3/23      | **BI Tooling: DOMO** | Online (Wed) / In Person @ TBD    | Complete Module 7 course materials on GitHub              |
 | Bi-Week  | 3/30      | **Spring Break** | 🌴🌴🌴 | Enjoy a week off!            |
 | Week 13  | 4/6      | **Real World Analysis Kick Off** | Online (Wed/Sat)    | Choose a business or non-profit to create a dashboard or analytic report                 |
 | Week 14  | 4/13      | **Real World Analysis Project** | Online (Wed/Sat)  | Work on your final project and prepare for your presentation                |
