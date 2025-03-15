@@ -39,10 +39,17 @@ _Estimated total time to complete: 4 hours_
 1. 💃 Welcome and Networking 
 2. 🎓 Capstone Overview
    * Guest Speaker - Worthy Lee 
-3. 🤖 AI Demo & Hack time  
+3. ☕️ Break
+4. 🤖 AI Demo & Hack time  
     * [Loveable.dev](Loveable.dev)
     * [Story Magic](https://lovable.dev/projects/e581faca-7bca-42a7-8e0a-25bdb8c7ca39)  
-3. ☕️ Break
-4. ❓ [Quiz]() - Looker Quiz
-5. 👩🏻‍🏫 Demo - A Look at some Looker Dashboards 👀
-6. 🔜 Wrap up & Look Ahead 
+5. 🔜 Wrap up & Look Ahead 
+
+## Saturday, March 15th, 2025 - In Class Agenda: 
+
+1.  👩🏻‍🏫 Demo - A Look at some Looker Dashboards 👀
+2. 🙌🏻 Share and Tell
+3. 🔜 Wrap up & Look Ahead 
+4. ☕️ Break
+5. 💃 Guest Speaker - [Jessica Currun](https://www.linkedin.com/in/jessica-curran/) - VP Data Science & Analytics @ Health Catalyst 
+
