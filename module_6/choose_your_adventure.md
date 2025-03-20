@@ -11,3 +11,16 @@ This week is "Choose Your Adventure" week where you go deeper on a topic of your
 
 - [ ] Add your completed project to [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/197). 
 - [ ] Celebrate! Learning how to learning is an important part of learning! 
+
+## Wednesday, March 19th, 2025 - In Class Agenda: 
+
+1. 💃 Welcome and Networking 
+2. 👍 Choose Your Adventure Week discussion
+3. 🏆 [Bingo Cards](https://www.canva.com/design/DAGU4YZWjhA/a95sS4Z2f2YJENhFDC3zAg/edit?utm_content=DAGU4YZWjhA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+4. ☕️ Break
+5. 🤖 Database Demo
+  * Supabase 
+  * 🎥 [Exploring GitHub with BigQuery](https://www.youtube.com/watch?v=Ast3-RFVHkM&t=4s)
+  * BigQuery
+  * Snowflake 
+7. 🔜 Wrap up & Look Ahead 
