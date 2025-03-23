@@ -33,7 +33,7 @@ _Estimated Time to Complete 1.5 hrs_
 
 _Estimated Time to Complete 8 hours_ 
 
-- [ ] Complete the [Data Storytelling](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/178) Assignment 
+- [x] Complete the [Data Storytelling](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/178) Assignment 
 
 ## Saturday, March 8th, 2025 - In Class Agenda: 
 
