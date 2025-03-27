@@ -84,6 +84,24 @@ In this section on dashboarding, you'll learn how to make visuals stand out, inc
 
 - [ ] Watch this [video series 6.1 - 6.5](https://www.youtube.com/watch?v=7ig7GIqQJGQ&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=43) and mark when complete 
 
+## Wednesday, March 26th, 2025 - In Class Agenda: 
+
+1. 💃 Welcome, Networking, and Annoucements  
+   * How do you Slack? 
+   * Capstone Q&A 
+2. ⏮️ Domo Video Recap 
+3. 🤖 AI Demo - "The big 4" 
+    * Loveable.dev
+    * bolt.new 
+    * replit 
+    * v0 
+
+(In addition to the favorites: ChatGPT & Claude) 
+
+3. ☕️ Break
+4. 🩵 [Thinking like an Analyst](https://docs.google.com/presentation/d/1Jz7Zwlhja3oeDUnkfviZ_w9-eAmPWP1og5zLf8DRmUc/edit#slide=id.g28374011be7_0_143) Lecture    
+5. 🔜 Wrap up & Look Ahead 
+
 ## Assignment #7 
 
 - [ ] Assignment #7 will be an in-class project at Domo HQ 🎉
