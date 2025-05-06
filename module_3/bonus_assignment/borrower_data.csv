@@ -1,0 +1,13 @@
+BorrowerID,BorrowerName,BookID
+1,Alice,1
+2,Bob,2
+3,Charlie,3
+4,David,4
+5,Eve,5
+6,Frank,6
+7,Grace,7
+1,Alice,5
+2,Bob,6
+3,Charlie,7
+4,David,8
+6,Frank,10

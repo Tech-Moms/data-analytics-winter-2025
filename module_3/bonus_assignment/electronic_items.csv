@@ -1,0 +1,11 @@
+item_id,item_name,category,price,quantity,warranty_months
+1,Laptop,Computers,1000.0,20,24
+2,Smartphone,Phones,700.0,50,18
+3,Television,TVs,1500.0,30,12
+4,Headphones,Accessories,100.0,100,6
+5,Tablet,Computers,500.0,40,12
+6,Smartwatch,Wearables,300.0,60,24
+7,Camera,Cameras,800.0,25,12
+8,Printer,Printers,400.0,15,18
+9,Bluetooth Speaker,Accessories,150.0,80,12
+10,Gaming Console,Gaming,450.0,35,24
